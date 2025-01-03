@@ -78,6 +78,8 @@ Kazumi下载页：https://github.com/Predidit/Kazumi/releases
 （支持全平台，开源弹幕）
 ani:https://myani.org/
 （目前最强大的追番软件）
+Animius:https://github.com/lanlinju/Animius/releases
+（安卓开源动漫软件）
 横风动漫：http://hfdmapp.tv/
 （安卓，电脑，电视）
 多多动漫:dddh.com
@@ -140,8 +142,10 @@ PPXDM：https://www.ppxdm.com/
 coco漫画：https://www.colamanga.com/
 动漫之家：https://www.idmzj.com/
 （网页+安卓客户端）
+动漫之家开源版：https://github.com/niuhuan/daisy/releases
 拷贝漫画：https://www.mangacopy.com/
 （网页+安卓）
+拷贝漫画第三方：https://github.com/fumiama/copymanga/releases
 包子漫画：https://cn.bzmanga.com/
 聚合漫画屋：https://www.52hah.com/
 二次元动漫：https://www.2animx.com/
@@ -234,6 +238,7 @@ r18小说：
 【插画壁纸】
 p站：https://www.pixiv.net/
 （要挂梯子）
+p站开源版：https://github.com/niuhuan/pansy/releases/
 Pixivic：https://pixivic.com/
 星空壁纸：www.xkspbz.com
 chnci：https://www.chnci.cc/
@@ -259,6 +264,8 @@ wallhaven:https://wallhaven.cc/
 三幻神：
 哔咔：https://www.picacomic.com/
 （发布页，要挂梯子）
+禁漫天堂开源版：https://github.com/niuhuan/jasmine/releases
+哔咔漫画开源版：https://github.com/niuhuan/pikapika/releases/
 网页端：https://picawang.com/
 禁漫天堂：18comic.vip
 JM Comic：发布页：https://jmcomic1.ltd/
@@ -501,6 +508,8 @@ ACG Fun:https://www.acgames.cc/
 ACG评论：
 BGM：https://bangumi.tv/
 （又名番组计划，中国最大的ACG评论网站）
+BGM安卓版：https://github.com/xiaoyvyv/bangumi/releases
+https://github.com/ekibun/Bangumi/releases/tag/alpha20240203
 MAL:https://myanimelist.net/
 （全球最大的ACG评论网站，新番资讯）
 ANK：https://www.anikore.jp/
