@@ -9,6 +9,7 @@ c站：https://www.tucao.cam/
 （混进来个不正经的）
 弹弹弹幕：https://www.dandanplay.com/
 （最佳播放器）
+
 ////////////4
 
 网页+app:
@@ -54,7 +55,9 @@ girlgirl：https://anime.girigirilove.com/
 （网页+安卓）
 番薯动漫发布页：https://fsdm.top/
 （网页+安卓）
+
 /////////////22
+
 仅app:
 动漫共和国:https://dmghg.com/
 （安卓+windows，需梯子)
@@ -91,7 +94,9 @@ Animius:https://github.com/lanlinju/Animius/releases
 (仅安卓）
 Z动漫：https://zzzdm.top/
 (仅安卓）
+
 /////////////36
+
 仅网页：
 d站：https://dilidili.online/
 m站：http://www.bimiacg10.net/
@@ -134,7 +139,9 @@ PPXDM：https://www.ppxdm.com/
 番组放送：https://bgmlist.com/
 新番表：https://yuc.wiki/
 番剧删减表：https://hzj.wiki/
+
 //////////////////71
+
 【漫画】
 国内在线漫画（经常换域名的网站可以直接浏览器搜网站名字）：
 漫搜：https://www.soman.com/
@@ -191,6 +198,7 @@ Piccoma:https://piccoma.com/web/
 一迅社：https://shinshokan.com/comic/
 
 //////////////////////111
+
 【小说】
 综合：
 搜书网：https://bqg123.net/
@@ -236,6 +244,7 @@ r18小说：
 禁忌书屋:https://www.cool18.com/bbs4/
 
 //////////////////////140
+
 【插画壁纸】
 p站：https://www.pixiv.net/
 （要挂梯子）
@@ -260,7 +269,9 @@ ACG壁纸：https://www.acgbz.net/
 (电脑+安卓软件）
 莱克壁纸网：https://www.likebizhi.com/
 wallhaven:https://wallhaven.cc/
+
 /////////////////////159
+
 【本子禁漫】(基本都要梯子）
 三幻神：
 哔咔：https://www.picacomic.com/
@@ -299,6 +310,7 @@ n站：https://nhentai.net/
 pilipili:https://5055.xyodro.com/
 
 /////////////179
+
 【里番】（不行就开VPN）
 中文界面：
 h次元：https://h-ciyuan.com/
@@ -326,7 +338,9 @@ https://bombosm.creu90.lol/home
 正版里番：https://www.lune-soft.jp/
 
 大多数r18网站也都有里番观看，自行下滑寻找
+
 ///////////////////////197
+
 【galgame】：
 吉里吉里模拟器下载：https://github.com/zeas2/Kirikiroid2/releases
 ONS模拟器下载：https://github.com/ONScripterAppsShare/onscripter/releases
@@ -451,7 +465,9 @@ key社:http://key.visualarts.gr.jp/
 世嘉：https://asia.sega.com/
 型月：https://typemoon.com/
 //////////////////////////269
+
 【综合ACG资源】
+
 /////////////////////////
 导航网站：
 次元礼赞：https://acgmon.net/
@@ -471,6 +487,7 @@ cilicili:https://clicli.com.cn/
 呲哩呲哩：https://www.cilicili.cc/
 
 ACG论坛与博客：
+
 萌娘百科：https://mzh.moegirl.org.cn/
 凌猫博客：https://blog.aicg.fun/
 （破解软件）
@@ -516,6 +533,8 @@ MAL:https://myanimelist.net/
 ANK：https://www.anikore.jp/
 （日本知名动漫资讯与评论网站）
 AniDB:https://anidb.net/
+
+
 /////////////////////////305
 【影视剧】：
 追剧APP:https://www.holesfly.xyz/
@@ -549,7 +568,9 @@ https://vidhub1.cc/（支持安卓APP）
 （广告多）
 影视资源网：https://hdmoli.cc/
 （导航网站）
+
 //////////////////////329
+
 【音乐畅听】：
 极客音乐：https://bestgeek.org/music?ref=www.zjnav.com
 listen1下载：https://github.com/listen1
@@ -575,7 +596,9 @@ listen1下载：https://github.com/listen1
 好听音乐网：http://www.htqyy.com/
 MyFreeMP3:https://tool.liumingye.cn/
 无损音乐吧：https://www.dtshot.com/home
+
 ////////////////338
+
 【r18网站】：（进不去要么就是浏览器问题要么就是代理节点问题）
 国内（挂梯子反而进不来）：
 新91视频：https://52fc.t91nld.pro:9191/
@@ -639,7 +662,9 @@ https://zh.stripchat.com/
 重磅软件下载：https://lanz.live/
 AV下载：https://sukebei.nyaa.si/
 https://u3c3.com/
+
 ////////////////390
+
 【国外常用网站】(全部都需要代理不用多说）
 油管：https://www.youtube.com/
 （全球第一大视频网站）
@@ -662,7 +687,9 @@ GitHub:https://github.com/
 （全球著名影视平台）
 crunchyroll:https://www.crunchyroll.com/
 （欧美知名动漫网站）
+
 ///////////////////402
+
 JP各大电视台与影视网站：
 日本NHK官网:https://www.nhk.or.jp/
 日本电视台：https://www.ntv.co.jp/
@@ -679,6 +706,7 @@ sun:https://www.sun-tv.co.jp/
 TBS:https://www.tbs.co.jp/
 朝日：https://www.tv-asahi.co.jp/
 MBS:https://www.mbs.jp/
+
 知名影视平台：
 TVer:https://www.mbs.jp/https://tver.jp/
 Hulu:https://www.hulu.jp/
@@ -693,6 +721,7 @@ YAHOO!:https://www.yahoo.co.jp/
 京都动画官网：https://www.kyotoanimation.co.jp/
 安妮普官网：https://www.aniplex.co.jp/
 日本最大的影视评论网站：https://filmarks.com/
+
 ACG购物：
 日本知名r18同人作品和galgame购买网站：https://www.digiket.com/
 DMM:dmm.com
@@ -719,7 +748,9 @@ HOYOYO代购：https://cn.hoyoyo.com/
 知名里番制作公司：http://www.poro.cc/
 OneMap:https://www.fromjapan.co.jp/
 1番赏：https://1kuji.com/
+
 ////////////////////////////450
+
 【科学上网】：
 机场测速：https://askahh.com/
 免费机场收集：https://www.askahh.com/archives/101/
@@ -764,6 +795,7 @@ clash中文网：https://clashcn.com/
 （付费）
 
 ////////////////475
+
 【综合】：
 柒之社：https://07vods.cc/
 （番剧，电视剧，涩涩一应俱全）
