@@ -40,6 +40,8 @@ Moefun和嗷呜是一个东西:https://www.moefun.net/
 （网页+安卓+IOS自签）
 NyaFun:https://www.nyacg.net/
 （网页+安卓+IOS）
+喵物次元：https://www.mwcy.net/
+（网页+安卓+IOS）
 Mutefun:https://www.mute01.com/
 （网页+安卓）
 AGE：https://www.agedm.org/
@@ -72,8 +74,6 @@ cilicili：https://www.clicli.cloud/
 （安卓电脑电视三端通用下载页）
 heibai弹幕：http://heibai1.com/
 （安卓+win客户端+电视，1可以换成2，4和7）
-喵物次元发布页：https://app.catwdm.com/
-（安卓+IOS）
 嘶哩嘶哩：https://silisili-link.github.io/
 （安卓+IOS自签）
 Miru:https://miru.js.org/
