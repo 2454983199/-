@@ -13,15 +13,15 @@ c站：https://www.tucao.cam/
 ////////////4
 
 网页+app:
-e站：https://www.ezdmw.site/
+ e站：https://www.ezdmw.site/
 （网页+安卓软件，推荐电脑观看）
-Mifun发布页:https://lanmao.app/
+ Mifun发布页:https://lanmao.app/
 （安卓+IOS，推荐）
-网页：https://web.mifun.org/
+ 网页：https://web.mifun.org/
 （无弹幕）
-次元城发布页：https://www.cycity.pro/
+ 次元城发布页：https://www.cycity.pro/
 （网页+安卓+win客户端）
-樱之空：https://www.skr3.cc/
+ 樱之空：https://www.skr3.cc/
 （网页+安卓，资源较全）
 z站：http://www.zzzfun.one/ 
 发布页：app.zzzfun.one
