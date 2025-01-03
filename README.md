@@ -55,11 +55,11 @@ girlgirl：https://anime.girigirilove.com/
 （网页+安卓）
 /////////////22
 仅app:
-动漫共和国:dmghg.com/org
+动漫共和国:https://dmghg.com/
 （安卓+windows，需梯子)
 omofun：omoget.com
 （新软件Lanerc,敬请期待o站满血复活）
-新域名：lanerc.moe
+新域名：https://lanerc.moe/
 囧次元:https://jocy2024.net/com/org
 （官网下载页）
 或：https://jocy.ink/live/vip/tw/tv/app
