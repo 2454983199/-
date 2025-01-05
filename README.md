@@ -24,7 +24,7 @@ c站：https://www.tucao.cam/
  樱之空：https://www.skr3.cc/
 （网页+安卓，资源较全）
 z站：http://www.zzzfun.one/ 
-发布页：app.zzzfun.one
+发布页：http://app.zzzfun.one/
 （仅安卓）
 嗷呜动漫：https://www.aowu.tv/
 （网页版）
@@ -58,7 +58,7 @@ girlgirl：https://anime.girigirilove.com/
 番薯动漫发布页：https://fsdm.top/
 （网页+安卓）
 
-/////////////22
+/////////////23
 
 仅app:
 动漫共和国:https://dmghg.com/
@@ -68,8 +68,8 @@ omofun：omoget.com
 新域名：https://lanerc.moe/
 囧次元:https://jocy2024.net/com/org
 （官网下载页）
-或：https://jocy.ink/live/vip/tw/tv/app
-（后缀可替换）
+或：https://jocy.ink
+/live/vip/tw/tv/app（后缀可替换）
 cilicili：https://www.clicli.cloud/
 （安卓电脑电视三端通用下载页）
 heibai弹幕：http://heibai1.com/
@@ -95,7 +95,7 @@ Animius:https://github.com/lanlinju/Animius/releases
 Z动漫：https://zzzdm.top/
 (仅安卓）
 
-/////////////36
+/////////////38
 
 仅网页：
 d站：https://dilidili.online/
@@ -123,7 +123,7 @@ PPXDM：https://www.ppxdm.com/
 1漫：https://anime1.one/
 巴哈姆特动漫疯：https://ani.gamer.com.tw/
 （播放需要开全局代理，有安卓软件）
-////////////////57
+////////////////59
 动漫下载：
 动漫花园资源网：https://dmhy.b168.net/
 动漫花园：https://garden.onekuma.cn/
@@ -140,7 +140,7 @@ PPXDM：https://www.ppxdm.com/
 新番表：https://yuc.wiki/
 番剧删减表：https://hzj.wiki/
 
-//////////////////71
+//////////////////73
 
 【漫画】
 国内在线漫画（经常换域名的网站可以直接浏览器搜网站名字）：
@@ -197,7 +197,7 @@ Piccoma:https://piccoma.com/web/
 新书馆：https://shinshokan.com/comic/
 一迅社：https://shinshokan.com/comic/
 
-//////////////////////111
+//////////////////////113
 
 【小说】
 综合：
@@ -243,7 +243,7 @@ r18小说：
 都市文学-成人小说：https://youbook.icu/
 禁忌书屋:https://www.cool18.com/bbs4/
 
-//////////////////////140
+//////////////////////142
 
 【插画壁纸】
 p站：https://www.pixiv.net/
@@ -270,9 +270,11 @@ ACG壁纸：https://www.acgbz.net/
 莱克壁纸网：https://www.likebizhi.com/
 wallhaven:https://wallhaven.cc/
 
-/////////////////////159
+/////////////////////161
 
 【本子禁漫】(基本都要梯子）
+多名站开源合集picacomic:
+https://github.com/wgh136/PicaComic/releases
 三幻神：
 哔咔：https://www.picacomic.com/
 （发布页，要挂梯子）
@@ -309,7 +311,7 @@ n站：https://nhentai.net/
 哔咔漫画：https://qgu22dmsfx.com/
 pilipili:https://5055.xyodro.com/
 
-/////////////179
+/////////////182
 
 【里番】（不行就开VPN）
 中文界面：
@@ -339,7 +341,7 @@ https://bombosm.creu90.lol/home
 
 大多数r18网站也都有里番观看，自行下滑寻找
 
-///////////////////////197
+///////////////////////200
 
 【galgame】：
 吉里吉里模拟器下载：https://github.com/zeas2/Kirikiroid2/releases
@@ -464,7 +466,7 @@ key社:http://key.visualarts.gr.jp/
 科美乐：https://www.konami.com/
 世嘉：https://asia.sega.com/
 型月：https://typemoon.com/
-//////////////////////////269
+//////////////////////////272
 
 【综合ACG资源】
 
@@ -535,7 +537,7 @@ ANK：https://www.anikore.jp/
 AniDB:https://anidb.net/
 
 
-/////////////////////////305
+/////////////////////////309
 【影视剧】：
 追剧APP:https://www.holesfly.xyz/
 热播之家：https://rebozj.pro/
@@ -569,7 +571,7 @@ https://vidhub1.cc/（支持安卓APP）
 影视资源网：https://hdmoli.cc/
 （导航网站）
 
-//////////////////////329
+//////////////////////334
 
 【音乐畅听】：
 极客音乐：https://bestgeek.org/music?ref=www.zjnav.com
@@ -597,7 +599,7 @@ listen1下载：https://github.com/listen1
 MyFreeMP3:https://tool.liumingye.cn/
 无损音乐吧：https://www.dtshot.com/home
 
-////////////////338
+////////////////352
 
 【r18网站】：（进不去要么就是浏览器问题要么就是代理节点问题）
 国内（挂梯子反而进不来）：
@@ -634,7 +636,8 @@ https://missav.com/
 （日本名站）
 Fantasi:https://fantasi.one/zh-cn/
 （短视频）
-https://www.sex.com/《sex》
+https://www.sex.com/
+《sex》
 https://beeg.com/
 （欧美顶级网站）
 https://avgle.net/
@@ -663,7 +666,7 @@ https://zh.stripchat.com/
 AV下载：https://sukebei.nyaa.si/
 https://u3c3.com/
 
-////////////////390
+////////////////393
 
 【国外常用网站】(全部都需要代理不用多说）
 油管：https://www.youtube.com/
@@ -688,7 +691,7 @@ GitHub:https://github.com/
 crunchyroll:https://www.crunchyroll.com/
 （欧美知名动漫网站）
 
-///////////////////402
+///////////////////405
 
 JP各大电视台与影视网站：
 日本NHK官网:https://www.nhk.or.jp/
@@ -749,7 +752,7 @@ HOYOYO代购：https://cn.hoyoyo.com/
 OneMap:https://www.fromjapan.co.jp/
 1番赏：https://1kuji.com/
 
-////////////////////////////450
+////////////////////////////453
 
 【科学上网】：
 机场测速：https://askahh.com/
@@ -794,7 +797,7 @@ clash中文网：https://clashcn.com/
 快连VPN：https://d1gx3j8kwj94us.cloudfront.net/
 （付费）
 
-////////////////475
+////////////////478
 
 【综合】：
 柒之社：https://07vods.cc/
@@ -830,9 +833,9 @@ QooApp:https://www.qoo-app.com/
 豌豆荚：https://www.wandoujia.com/
 全球qpp下载：https://apkpure.com/
 
-/////////////////统计：共497个网站
-上次更新时间：2025/1/3
-4.96更新日志：更新anidb，lanerc等网站
+/////////////////统计：共500个网站
+上次更新时间：2025/1/5
+5.0更新日志：更新github上的开源软件地址
 
 备选网站：
 帝王：https://diwang57.cc/
