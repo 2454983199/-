@@ -4,7 +4,7 @@
 【动漫番剧】
 无需多言：
 a站：https://www.acfun.cn/bangumilist
-b站：https://www.bilibili.com/anime/
+b站：https://www.bilibili.com/anime/														
 c站：https://www.tucao.cam/
 （混进来个不正经的）
 弹弹弹幕：https://www.dandanplay.com/
@@ -23,7 +23,7 @@ c站：https://www.tucao.cam/
 （网页+安卓+win客户端）
  樱之空：https://www.skr3.cc/
 （网页+安卓，资源较全）
-z站：http://www.zzzfun.one/ 
+z站：http://www.zzzfun.one/ （已失效）
 发布页：http://app.zzzfun.one/
 （仅安卓）
 嗷呜动漫：https://www.aowu.tv/
