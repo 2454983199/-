@@ -275,7 +275,7 @@ wallhaven:https://wallhaven.cc/
 【本子禁漫】(基本都要梯子）
 多名站开源合集picacomic:
 https://github.com/wgh136/PicaComic/releases
-三幻神：
+知名软件：
 哔咔：https://www.picacomic.com/
 （发布页，要挂梯子）
 禁漫天堂开源版：https://github.com/niuhuan/jasmine/releases
@@ -285,7 +285,7 @@ https://github.com/wgh136/PicaComic/releases
 JM Comic：发布页：https://jmcomic1.ltd/
 Ehviewer:https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases?after=1.7.6.15
 (github下载页）
-
+NoyAcg:https://noy.asia/
 中文网站：
 绅士漫画：https://www.wnacg.com/
 松鼠综合征：https://ahri8.top/
@@ -311,7 +311,7 @@ n站：https://nhentai.net/
 哔咔漫画：https://qgu22dmsfx.com/
 pilipili:https://5055.xyodro.com/
 
-/////////////182
+/////////////183
 
 【里番】（不行就开VPN）
 中文界面：
@@ -341,7 +341,7 @@ https://bombosm.creu90.lol/home
 
 大多数r18网站也都有里番观看，自行下滑寻找
 
-///////////////////////200
+///////////////////////201
 
 【galgame】：
 吉里吉里模拟器下载：https://github.com/zeas2/Kirikiroid2/releases
@@ -466,7 +466,7 @@ key社:http://key.visualarts.gr.jp/
 科美乐：https://www.konami.com/
 世嘉：https://asia.sega.com/
 型月：https://typemoon.com/
-//////////////////////////272
+//////////////////////////273
 
 【综合ACG资源】
 
@@ -537,7 +537,7 @@ ANK：https://www.anikore.jp/
 AniDB:https://anidb.net/
 
 
-/////////////////////////309
+/////////////////////////310
 【影视剧】：
 追剧APP:https://www.holesfly.xyz/
 热播之家：https://rebozj.pro/
@@ -571,7 +571,7 @@ https://vidhub1.cc/（支持安卓APP）
 影视资源网：https://hdmoli.cc/
 （导航网站）
 
-//////////////////////334
+//////////////////////335
 
 【音乐畅听】：
 极客音乐：https://bestgeek.org/music?ref=www.zjnav.com
@@ -599,7 +599,7 @@ listen1下载：https://github.com/listen1
 MyFreeMP3:https://tool.liumingye.cn/
 无损音乐吧：https://www.dtshot.com/home
 
-////////////////352
+////////////////353
 
 【r18网站】：（进不去要么就是浏览器问题要么就是代理节点问题）
 国内（挂梯子反而进不来）：
@@ -666,7 +666,7 @@ https://zh.stripchat.com/
 AV下载：https://sukebei.nyaa.si/
 https://u3c3.com/
 
-////////////////393
+////////////////394
 
 【国外常用网站】(全部都需要代理不用多说）
 油管：https://www.youtube.com/
@@ -691,7 +691,7 @@ GitHub:https://github.com/
 crunchyroll:https://www.crunchyroll.com/
 （欧美知名动漫网站）
 
-///////////////////405
+///////////////////406
 
 JP各大电视台与影视网站：
 日本NHK官网:https://www.nhk.or.jp/
@@ -752,7 +752,7 @@ HOYOYO代购：https://cn.hoyoyo.com/
 OneMap:https://www.fromjapan.co.jp/
 1番赏：https://1kuji.com/
 
-////////////////////////////453
+////////////////////////////454
 
 【科学上网】：
 机场测速：https://askahh.com/
@@ -797,7 +797,7 @@ clash中文网：https://clashcn.com/
 快连VPN：https://d1gx3j8kwj94us.cloudfront.net/
 （付费）
 
-////////////////478
+////////////////479
 
 【综合】：
 柒之社：https://07vods.cc/
@@ -833,8 +833,8 @@ QooApp:https://www.qoo-app.com/
 豌豆荚：https://www.wandoujia.com/
 全球qpp下载：https://apkpure.com/
 
-/////////////////统计：共500个网站
-上次更新时间：2025/1/5
+/////////////////统计：共501个网站
+上次更新时间：2025/3/4
 5.0更新日志：更新github上的开源软件地址
 
 备选网站：
