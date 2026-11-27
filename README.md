@@ -231,6 +231,8 @@ https://kakuyomu.jp/
 （国产为主）
 书旗中文网：https://www.shuqi.com/
 番茄小说网：https://fanqienovel.com/
+亲小说：https://www.qinxiaoshuo.com/
+（网页，在线阅读+书架进度+书友社区）
 追书网：http://www.zhuishu.cc/
 天方听书网：https://www.tingbook.com/
 懒人听书：https://www.lrts.me/
